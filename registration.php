@@ -220,7 +220,7 @@ background-color:#6ebaca;
        <span class="back"> If you already registered/ <a href="studentlogin.php" style="font-size:16px;">Login ?</a></span>
   </div>
   <div class="row bg-dark text-center p-1 w-100  " id="footer">
-  <span style="color:white;">Copyright © 2023 Designed & Devloped By <span style="color:blue">Anchal Prajapti</span></span>
+  <!-- <span style="color:white;">Copyright © 2023 Designed & Devloped By <span style="color:blue">Anchal Prajapti</span></span> -->
 </div> 
   </div>
   
