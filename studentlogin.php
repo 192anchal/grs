@@ -83,7 +83,7 @@ span a{
   </div>
   <div class="conatiner-fluid">
   <div class="row bg-dark text-center p-0 w-100"  id="footer">
-  <span style="color:white;">Copyright © 2023 Designed & Developed By <span style="color:blue">Trisha Mishra</span></span>
+  <span style="color:white;">Copyright © 2023 Designed & Developed By <span style="color:blue">Anchal Prajapati</span></span>
 </div>
   </div>
 </body>

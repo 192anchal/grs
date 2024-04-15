@@ -85,7 +85,7 @@ h4{
 <footer class="fixed-bootom">
     <div class="row">
         <div class="col-sm-12 bg-dark text-center">
-            <h6 style="color:rgba(220,220,220,0.9);">Copyright © 2023 Designed & Devloped By <span style="color:blue;">Trisha Mishra</span></h6>
+            <h6 style="color:rgba(220,220,220,0.9);">Copyright © 2023 Designed & Devloped By <span style="color:blue;">Anchal Prajapati</span></h6>
         </div>
     </div>
 </footer>
